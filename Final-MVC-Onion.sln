@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Final-MVC-Onion", "Final-MVC-Onion\Final-MVC-Onion.csproj", "{C32204F0-2FD1-4F5F-ABB8-5418CAE54D70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C32204F0-2FD1-4F5F-ABB8-5418CAE54D70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C32204F0-2FD1-4F5F-ABB8-5418CAE54D70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C32204F0-2FD1-4F5F-ABB8-5418CAE54D70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C32204F0-2FD1-4F5F-ABB8-5418CAE54D70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47AF1BA0-1EE7-4429-9391-BCC08CB51934}
+	EndGlobalSection
+EndGlobal
